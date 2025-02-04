@@ -1,0 +1,10 @@
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\bin\Debug\ChatGptApiDemo.exe.config
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\bin\Debug\ChatGptApiDemo.exe
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\bin\Debug\ChatGptApiDemo.pdb
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\bin\Debug\Newtonsoft.Json.dll
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\bin\Debug\Newtonsoft.Json.xml
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\obj\Debug\ChatGptApiDemo.csproj.AssemblyReference.cache
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\obj\Debug\ChatGptApiDemo.csproj.CoreCompileInputs.cache
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\obj\Debug\ChatGptA.DF653FAB.Up2Date
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\obj\Debug\ChatGptApiDemo.exe
+D:\CODING\C#\ChatGptApiDemo\ChatGptApiDemo\obj\Debug\ChatGptApiDemo.pdb
